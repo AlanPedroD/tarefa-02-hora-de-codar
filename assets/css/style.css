@@ -11,7 +11,11 @@ body{
 .col{
     border: 2px solid rgba(120, 30, 30, 0.422);
     height: 150px;
-    padding: 10px;
+    padding: 15px;
+    margin: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 .bi-bell{
     color: green;
